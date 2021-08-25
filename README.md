@@ -10,8 +10,8 @@ Modified by "mohsanjid".Subscribe my channel for more autmation tools www.youtub
 ### Installation
 
 ```
-$ git clone https://github.com/sanjidtk/sbot
-$ cd sbot
+$ git clone https://github.com/TOXIDE-SER/IGBOT
+$ cd IGBOT
 $ node index.js
 ```
 
